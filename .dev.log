@@ -1,0 +1,31 @@
+npm warn cli npm v11.11.0 does not support Node.js v20.11.1. This version of npm supports the following node versions: `^20.17.0 || >=22.9.0`. You can find the latest version at https://nodejs.org/.
+
+> dev
+> vite --port 5183
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m399[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5183[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m3:06:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Sidebar.tsx[22m
+[2m3:07:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
+[2m3:07:15 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
+[2m3:07:19 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
+[2m3:07:39 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CalendarPage.tsx[22m
+[2m3:13:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CalendarPage.tsx, /src/pages/AdminPage.tsx[22m
+[2m3:13:19 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPage.tsx[22m
+[2m3:13:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPage.tsx[22m
+[2m3:13:47 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPage.tsx[22m
+[2m3:14:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CalendarPage.tsx[22m
+[2m3:14:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CalendarPage.tsx[22m
+[2m3:14:19 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CalendarPage.tsx[22m
+[2m3:21:36 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPage.tsx[22m
+[2m3:21:43 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPage.tsx[22m
+[2m3:26:59 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Header.tsx[22m
+[2m3:47:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
+[2m3:48:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
+[2m3:56:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Header.tsx[22m
+[2m4:02:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/styles.css?direct[22m
+[2m4:02:34 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/styles.css?direct[22m
+[2m4:06:33 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/styles.css?direct[22m
