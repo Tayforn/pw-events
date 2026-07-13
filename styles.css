@@ -24,8 +24,8 @@
   --radius: 14px;
   --radius-lg: 22px;
   --shadow: 0 20px 60px -20px rgba(0, 0, 0, 0.75), 0 10px 30px -15px rgba(0, 0, 0, 0.7);
-  --shell-w: min(1100px, 97vw);
-  --sidebar-w: 200px;
+  --shell-w: min(1300px, 97vw);
+  --sidebar-w: 210px;
 }
 
 * { box-sizing: border-box; }
@@ -209,7 +209,7 @@ html[data-theme="light"] .theme-ico-moon { display: inline; }
 }
 
 @media (max-width: 880px) {
-  :root { --shell-w: min(760px, 94vw); }
+  :root { --shell-w: min(900px, 94vw); }
   .app-shell { grid-template-columns: minmax(0, 1fr); gap: 0; padding-top: 10px; }
   .sidebar {
     position: fixed;
